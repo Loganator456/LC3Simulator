@@ -1,6 +1,9 @@
-# TCSS 372 Final Project 6
+Welcome to the LC-3 Simulator Simulator. This is a full simulator of the LC-3 microarchitecture, with a interface built around the Ncurses library.
 
-Welcome to the LC-3 Simulator Simulator. This is a collaborative project written in part by almost everyone enrolled in the Spring 2018 TCSS372 course at University of Washington Tacoma. This is a full simulator of the LC-3 microarchitecture, with a interface built around the Ncurses library.
+This is a collaborative project between myself, Michael Fulton, Enoch Chan, and Sam Brendel, created for a TCSS 372 course at the University of Washington Tacoma. I've cloned this repository for personal reference and to revisit the source code without affecting the original repository in any way.
+
+For more information on the LC-3 Computer and the machine's microarchitecture, feel free to browse the Wikipedia article on the LC-3:
+https://en.wikipedia.org/wiki/LC-3
 
 ## Getting Started - Compilation and Execution
 
